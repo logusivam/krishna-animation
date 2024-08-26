@@ -44,6 +44,7 @@ h1
 h2
 {
     font-size: 35px;
+    animation: animationtopbottom 3s linear forwards;
 }
 
 h1 > img
