@@ -40,3 +40,19 @@ h1
     align-items: center;
     justify-content: space-between;
 }
+
+h2
+{
+    font-size: 35px;
+}
+
+h1 > img
+{
+    width: 100%;
+    max-width: 80px;
+}
+
+div#text-bg
+{
+    
+}
