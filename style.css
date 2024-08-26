@@ -39,7 +39,7 @@ h1
     display: flex;
     align-items: center;
     justify-content: space-between;
-    animation: animationtopbottom 5s linear forwards;
+    animation: animationtopbottom 2s linear forwards;
 }
 
 h2
@@ -61,7 +61,7 @@ div#text-bg
 
 .animationtopbottom
 {
-    animation: animationtopbottom 5s linear forwards;
+    animation: animationtopbottom 2s linear forwards;
 }
 
 @keyframes animationtopbottom
