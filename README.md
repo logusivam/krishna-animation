@@ -25,9 +25,9 @@ This project creates an animated Krishna Janmashtami greeting using HTML and CSS
 3. Customize the images, text, or animation timing as per your preference.
 
 ## 🎨 Customization
-Images: Replace the background, splash structure, and Krishna images by updating the `src` attributes in the HTML.
-Text: Modify the wishes or any other text directly in the HTML file.
-Animation: Adjust the animation duration or keyframes in the CSS file.
+  - **Images**: Replace the background, splash structure, and Krishna images by updating the `src` attributes in the HTML.
+  - **Text**: Modify the wishes or any other text directly in the HTML file.
+  - **Animation**: Adjust the animation duration or keyframes in the CSS file.
 
 ## 🤝 Contributions
 Contributions to enhance this animation are welcome. Feel free to fork the repository, make changes, and submit a pull request.
