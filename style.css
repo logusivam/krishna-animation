@@ -1,0 +1,12 @@
+*
+{
+    margin: 0;
+    font-family: 'IBM Plex Sans', serif;
+    color: #fff;
+}
+
+body
+{
+    width: 100vw;
+    height: 100vh;
+    display: flex
