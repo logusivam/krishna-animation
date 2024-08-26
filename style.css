@@ -57,9 +57,9 @@ div#text-bg
     max-width: 480px;
 }
 
-.animationTopBottom
+.animationtopbottom
 {
-    animation: animationtopbottom 2s linear forwards;
+    animation: animationtopbottom 5s linear forwards;
 }
 
 @keyframes animationtopbottom
