@@ -54,5 +54,23 @@ h1 > img
 
 div#text-bg
 {
-    max-width: 480p;
+    max-width: 480px;
+}
+
+.animationTopBottom
+{
+    animation: animationTopBottom 2s linear forwards;
+}
+
+@keyframes animationTopBottom
+{
+    0%
+    {
+        transform: translateY(-500%);
+    }
+
+    100%
+    {
+        transform: translateY(0%);
+    }
 }
