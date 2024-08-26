@@ -59,10 +59,10 @@ div#text-bg
 
 .animationTopBottom
 {
-    animation: animationTopBottom 2s linear forwards;
+    animation: animationtopbottom 2s linear forwards;
 }
 
-@keyframes animationTopBottom
+@keyframes animationtopbottom
 {
     0%
     {
