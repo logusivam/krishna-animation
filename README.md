@@ -9,7 +9,7 @@ This project creates an animated Krishna Janmashtami greeting using HTML and CSS
 - **Festive Design**: The background and splash structure images enhance the visual storytelling of the Krishna Janmashtami festival.
 
 ## 🛠️ Tech Stack
-
+ 
 - **HTML5**: For structuring the webpage.
 - **CSS3**: For styling the elements and implementing animations.
 
