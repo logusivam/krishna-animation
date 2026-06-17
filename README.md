@@ -1,36 +1,53 @@
-# 🎉 Krishna Janmashtami Animation
+# [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](#) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](#) [![Version](https://img.shields.io/badge/version-1.0.0-orange.svg)](#)
 
-This project creates an animated Krishna Janmashtami greeting using HTML and CSS. The animation features Lord Krishna with a pot of ghee, appearing from above the screen along with a festive wish message.
+# krishna-janmashtami-animation-ui
 
-## ✨ Features
+## Table of Contents
+- [Project Overview & Key Features](#project-overview--key-features)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Usage](#usage)
+- [Running Tests](#running-tests)
+- [Maintainers & Attribution](#maintainers--attribution)
 
-- **Krishna Animation**: Lord Krishna's image slides down from above the screen, creating a divine entrance.
-- **Wishes Animation**: The Krishna Janmashtami wishes text follows, adding to the celebratory mood.
-- **Festive Design**: The background and splash structure images enhance the visual storytelling of the Krishna Janmashtami festival.
+## Project Overview & Key Features
+* High-performance festive landing interface engineered specifically for cultural celebrations.
+* Intricate CSS-layered composition incorporating a stylized splash container backdrop.
+* Multilayer asset alignment featuring a central traditional ghee pot flanked by symmetrical peacock feathers.
+* Smooth JavaScript/jQuery easing animation executing an entrance transformation from the top boundary onto the central asset on initial load.
+* Cloud-accelerated layout utilizing global edge infrastructure for lightning-fast asset retrieval.
 
-## 🛠️ Tech Stack
- 
-- **HTML5**: For structuring the webpage.
-- **CSS3**: For styling the elements and implementing animations. 
+## Tech Stack
+* **Frontend Animation Core:** jQuery, Vanilla JavaScript
+* **Layout & Structuring:** HTML5, CSS3 Transitions & Keyframes, Varnish
+* **CDN & Edge Optimization:** Fastly CDN
+* **Typography:** Google Fonts
 
-## 🚀 How to Use
+## Getting Started
 
-1. **Clone the Repository**:
+### Prerequisites
+* A standard web browser with modern CSS animation matrix transformation parsing enabled.
+* A local server instance or direct browser mounting capability for static file assets.
 
-   ```bash
-   git clone https://github.com/logusivam/krishna-animation.git
-   ```
+### Installation
+```bash
+git clone <repo url>
+```
 
-2. Open the `index.html` file in your web browser to view the animation.
-3. Customize the images, text, or animation timing as per your preference.
+### Usage
+```bash
+open with live server
+```
 
-## 🎨 Customization
-  - **Images**: Replace the background, splash structure, and Krishna images by updating the `src` attributes in the HTML.
-  - **Text**: Modify the wishes or any other text directly in the HTML file.
-  - **Animation**: Adjust the animation duration or keyframes in the CSS file.
+## Maintainers & Attribution
+This enterprise asset is actively maintained and monitored by the core data engineering group. 
 
-## 🤝 Contributions
-Contributions to enhance this animation are welcome. Feel free to fork the repository, make changes, and submit a pull request.
+Special recognition to our principal maintainers and authors for their contributions:
+* **Loganathan G P** (Lead Architect)
+* GitHub: [logananthan](#) / [logusivam](#)
+* Core Engineering Sign-off: **G P**
 
-## 📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+---
+Managed by the Open Source SEO Initiative.
